@@ -99,6 +99,8 @@ URL: <url> Param: <param> Unfiltered: [<chars...>]
 - Redirects are not followed (3xx responses are skipped)
 - Only `text/html` (or content types containing "html") are scanned
 
+### Project Idea By https://github.com/h6nt3r
+
 ### License
 MIT (or your choice) – update this section accordingly.
 
